@@ -37,7 +37,6 @@ I enjoy working on data-driven projects, exploring patterns, and applying analyt
 
 | Project | Description |
 |---|---|
-| Revenue Anomaly Detection | Anomaly detection using Isolation Forest and K-Means |
 | Bitcoin Cryptocurrency Analysis | Cryptocurrency market analysis using clustering and Granger causality |
 | Credit Card Fraud Detection | Comparative analysis of machine learning classification models |
 | US House Price Analysis | Multiple linear regression and statistical analysis |
