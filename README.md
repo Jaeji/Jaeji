@@ -57,5 +57,5 @@ Expected Graduation: December 2026
 
 ## 🤝 Connect with Me
 
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/jirasak-ketmala-64207039a/
+- LinkedIn: https://www.linkedin.com/in/jirasak-ketmala-64207039a/
 - GitHub: [@Jaeji](https://github.com/Jaeji)
