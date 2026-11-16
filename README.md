@@ -1,16 +1,61 @@
-## Hi there 👋
+# Hi, I'm Jaeji 👋
 
-<!--
-**Jaeji/Jaeji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Applied Mathematics Student | Aspiring Data Analyst
 
-Here are some ideas to get you started:
+I'm a final-year Applied Mathematics student at Thammasat University, majoring in Computer and Data Management.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm interested in transforming data into meaningful insights through statistical analysis, data visualization, and machine learning.
+
+I enjoy working on data-driven projects, exploring patterns, and applying analytical methods to solve real-world problems.
+
+---
+
+## 🛠️ Technical Skills
+
+**Programming & Data Analysis**
+- Python
+- SQL
+- Pandas, NumPy
+
+**Data Visualization**
+- Tableau
+- Matplotlib
+- Seaborn
+- Microsoft Excel
+
+**Statistics & Machine Learning**
+- Statistical Analysis
+- Regression Analysis
+- Classification
+- Clustering
+- Scikit-learn
+- XGBoost
+
+---
+
+## 📊 Featured Projects
+
+| Project | Description |
+|---|---|
+| Revenue Anomaly Detection | Anomaly detection using Isolation Forest and K-Means |
+| Bitcoin Cryptocurrency Analysis | Cryptocurrency market analysis using clustering and Granger causality |
+| Credit Card Fraud Detection | Comparative analysis of machine learning classification models |
+| US House Price Analysis | Multiple linear regression and statistical analysis |
+| COPD Risk Prediction | Spatial mortality risk analysis using regression and KNN |
+
+---
+
+## 🎓 Education
+
+**Thammasat University**
+
+B.Sc. in Applied Mathematics  
+Track: Computer and Data Management  
+Expected Graduation: December 2026
+
+---
+
+## 🤝 Connect with Me
+
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/jirasak-ketmala-64207039a/
+- GitHub: [@Jaeji](https://github.com/Jaeji)
