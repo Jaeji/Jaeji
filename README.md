@@ -43,6 +43,16 @@ I enjoy working on data-driven projects, exploring patterns, and applying analyt
 | US House Price Analysis | Multiple linear regression and statistical analysis |
 | COPD Risk Prediction | Spatial mortality risk analysis using regression and KNN |
 
+### ✨ Whispers of Light – Festival Website
+
+A collaborative web development project developed by a team of 8 members as part of the CS100 course at Thammasat University (2025).
+
+**My Contribution:**
+- Developed the Feedback Page.
+- Implemented feedback data handling using Local Storage.
+- Collaborated with team members to integrate the website components.
+
+**Repository:** [View Project](https://github.com/Jaeji/G1_OurFestival)
 ---
 
 ## 🎓 Education
